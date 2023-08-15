@@ -3,14 +3,14 @@
 int main(){
     int nota1, nota2, nota3, media;
 
-    printf("Digite 3 notas de um aluno:\n");
+    printf("Aqui: Digite 3 notas de um aluno:\n");
 
     printf("Nota 1: ");
     scanf("%d", &nota1);
 
     printf("Nota 2: ");
     scanf("%d", &nota2);
-    
+
     printf("Nota 3: ");
     scanf("%d", &nota3);    
 
