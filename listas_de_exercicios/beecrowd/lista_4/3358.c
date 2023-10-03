@@ -22,7 +22,7 @@ int main(){
                     break;
                 }
             } else {
-                consoantesConsecutivas = 0;
+                consoantesConsecutivas = 0; // interrompe a sequência de consoantes
             }
         }
         if(consoantesConsecutivas <= 2){
