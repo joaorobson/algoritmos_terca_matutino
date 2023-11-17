@@ -7,7 +7,7 @@ int main(){
     for(int i = 0;i < 10;i++){
         //printf("valor de vetor[%d] = %f\n", i, vetor[i]);
         printf("endereco de vetor[%d] = %p\n", i, &vetor[i]);
-        printf("endereco de vetor[%d] = %p\n", i, vetor + i);
+        printf("endereco de vetor[%d] ->>>>>> %p\n", i, vetor + i);
 
     }
 
