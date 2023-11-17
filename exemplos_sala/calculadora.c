@@ -5,7 +5,7 @@ int main(){
     int numero2;
     char operacao;
 
-    printf("Insira uma operacao:\n");
+    printf("Insira uma operacao para calculadora:\n");
     scanf("%c", &operacao);
 
     printf("Insira dois numeros:\n");
